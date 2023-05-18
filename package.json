@@ -39,5 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "jest": "^29.5.0",
+    "jest-styled-components": "^7.1.1"
   }
 }
